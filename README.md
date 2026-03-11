@@ -100,7 +100,3 @@ Sistema integral para la administración profesional de rifas, sorteos y concurs
 - Encriptación de datos sensibles
 - Registro detallado de actividades
 - Control de acceso basado en roles
-
-## 📚 Documentación
-
-- [Documentación del Sistema](./docs/README.md)

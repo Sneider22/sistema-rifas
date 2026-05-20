@@ -16,7 +16,7 @@
 
 ### 📊 Panel de Control General
 Administración centralizada con métricas clave, ingresos totales, boletos vendidos y control de actividades recientes en tiempo real.
-<img src="./screenshots/image_acdfaf.png" alt="Dashboard Principal" width="100%" />
+<img src="./readme/mapatickets.jpg" alt="Dashboard Principal" width="100%" />
 
 ### 📈 Estadísticas Avanzadas y Métricas
 Módulo analítico detallado con gráficos de rendimiento para el seguimiento de ventas diarias, tasa de conversión, distribución de tickets y top de jugadores.

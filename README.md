@@ -12,19 +12,23 @@
 
 ---
 
-## ⚡ Vista Previa del Sistema
+## Vista Previa del Sistema
 
 ### 📊 Panel de Control General
 Administración centralizada con métricas clave, ingresos totales, boletos vendidos y control de actividades recientes en tiempo real.
-<img src="./readme/mapatickets.jpg" alt="Dashboard Principal" width="100%" />
-
-### 📈 Estadísticas Avanzadas y Métricas
-Módulo analítico detallado con gráficos de rendimiento para el seguimiento de ventas diarias, tasa de conversión, distribución de tickets y top de jugadores.
-<img src="./screenshots/image_acdfec.png" alt="Estadísticas Avanzadas" width="100%" />
+<br /><br />
+<div align="center">
+  <img src="./readmesito/paneldecontrol.jpg" alt="Mapa Interactivo de Tickets" width="90%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</div>
+<br />
 
 ### 🗺️ Mapa Interactivo de Tickets
-Grilla dinámica e interactiva de boletos en tiempo real. Permite visualizar de forma intuitiva el estado de cada número (Disponibles, Apartados, Pagados y Abonados).
-<img src="./screenshots/image_ace028.png" alt="Mapa de Boletos" width="100%" />
+  <p>Grilla dinámica e interactiva de boletos en tiempo real. Permite visualizar de forma intuitiva el estado de cada número (Disponibles, Apartados, Pagados y Abonados).</p>
+  <br /><br />
+  <div align="center">
+  <img src="./readmesito/mapatickets.jpg" alt="Mapa Interactivo de Tickets" width="90%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</div>
+<br />
 
 ---
 

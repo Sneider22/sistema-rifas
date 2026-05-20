@@ -14,7 +14,7 @@
 
 ## Vista Previa del Sistema
 
-### 📊 Panel de Control General
+### Panel de Control General
 Administración centralizada con métricas clave, ingresos totales, boletos vendidos y control de actividades recientes en tiempo real.
 <br /><br />
 <div align="center">
@@ -22,7 +22,7 @@ Administración centralizada con métricas clave, ingresos totales, boletos vend
 </div>
 <br />
 
-### 🗺️ Mapa Interactivo de Tickets
+### Mapa Interactivo de Tickets
   <p>Grilla dinámica e interactiva de boletos en tiempo real. Permite visualizar de forma intuitiva el estado de cada número (Disponibles, Apartados, Pagados y Abonados).</p>
   <br /><br />
   <div align="center">

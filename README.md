@@ -53,7 +53,7 @@ Panel administrativo avanzado para moldear la identidad del negocio:
 
 ---
 
-## 🖥️ Módulos del Sistema
+## Módulos del Sistema
 
 | Módulo | Descripción Funcional |
 | :--- | :--- |
@@ -64,5 +64,5 @@ Panel administrativo avanzado para moldear la identidad del negocio:
 | **Estadísticas** | Gráficos temporales de conversión, eficiencia de ventas y distribución porcentual. |
 | **Configuración** | Gestión de mensajes tipo, pasarelas de pago y datos maestros de la firma. |
 
----
+
 

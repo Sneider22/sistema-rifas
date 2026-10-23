@@ -68,5 +68,9 @@ Panel administrativo avanzado para moldear la identidad del negocio:
 | **Estadísticas** | Gráficos temporales de conversión, eficiencia de ventas y distribución porcentual. |
 | **Configuración** | Gestión de mensajes tipo, pasarelas de pago y datos maestros de la firma. |
 
+## Créditos
+Desarrollado por:
+* [@rmaneiro28](https://github.com/rmaneiro28)
+* [@Sneider22](https://github.com/Sneider22)
 
 
